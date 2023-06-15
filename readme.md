@@ -48,4 +48,4 @@ Akses di web browser
 Sebelum menjalankan program pastikan apache server xampp sudah di running
 
 ## Credits
-- Gitub : [Bayu Pamungkas]('https://github.com/bayek335')
+- Gitub : [Bayu Pamungkas](https://github.com/bayek335)
